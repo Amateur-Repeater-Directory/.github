@@ -10,3 +10,6 @@ ARD is lightweight, fast, and works on any device, with open data and open tools
 **🌐 Website:** [amateurrepeaterdirectory.org](https://amateurrepeaterdirectory.org)  
 **💬 Join the conversation:** *(link to Discord, Groups.io, etc. if you have one)*  
 **📂 Repositories:** Explore the projects below to contribute.  
+<br/>
+<br/>
+<img width="1600" alt="image" src="https://github.com/user-attachments/assets/d9cc945c-ebc6-4557-ac89-22c471d5ced5" />
