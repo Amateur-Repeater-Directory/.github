@@ -16,3 +16,8 @@ ARD is lightweight, fast, and works on any device, with open data and open tools
 <br/>
 <br/>
 <img width="1600" alt="image" src="https://github.com/user-attachments/assets/d9cc945c-ebc6-4557-ac89-22c471d5ced5" />
+<br/>
+<br/>
+<img width="1600" alt="image" src="https://github.com/user-attachments/assets/7a675177-1872-4f51-a8af-aef22d5a50b7" />
+
+
